@@ -1,0 +1,44 @@
+{
+  "id": "2130547",
+  "name": "aaa",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "693586",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "10622228",
+      "name": "购物车",
+      "font_class": "dilanxianxingiconyihuifu_huabanfuben",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "954061",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "1127367",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4770750",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}
